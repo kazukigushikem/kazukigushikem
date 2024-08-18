@@ -23,4 +23,4 @@
 ![Unreal Engine](https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-4FC08D?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
