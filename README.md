@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kazuki</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kazuki%20Gushikem-sandybrown?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/kazuki-gushikem/)](https://www.linkedin.com/in/kazuki-gushikem/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Kazuki%20Gushikem-sandybrown?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/kazukigushikem/)](https://www.linkedin.com/in/kazukigushikem/) 
 [![Gmail Badge](https://img.shields.io/badge/-kazukigushikem@gmail.com-sandybrown?style=flat-square&logo=Gmail&logoColor=black&link=mailto:kazukigushikem@gmail.com)](mailto:kazukigushikem@gmail.com)
 
 ## 🛠️ Tech Stack
